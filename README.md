@@ -1,2 +1,6 @@
 # hello-world
-its a hello world repository
+=========
+HI humans
+
+
+my name is syed hussnain bukhari
